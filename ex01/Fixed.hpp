@@ -6,15 +6,14 @@
 /*   By: gdaignea <gdaignea@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/22 11:42:35 by gdaignea          #+#    #+#             */
-/*   Updated: 2024/08/22 15:21:56 by gdaignea         ###   ########.fr       */
+/*   Updated: 2024/08/22 15:25:31 by gdaignea         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FIXED_HPP
 # define FIXED_HPP
 
-# include <iostream>
-# include <cmath>
+#include <iostream>
 
 class Fixed {
 
